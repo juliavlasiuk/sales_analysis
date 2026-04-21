@@ -23,8 +23,11 @@ The goal of this project was to analyze company revenue and profitability across
 **Technical highlights**
 
 • Designed interactive dashboards in **Power BI** with KPIs such as Revenue, Costs, Profit, and Profit Margin
+
 • Performed data cleaning and transformation using **Power Query**
+
 • Built calculated measures **in DAX** to support profitability and trend analysis
+
 • Implemented dynamic filtering by project type, industry, and location
 
 
