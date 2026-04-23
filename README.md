@@ -2,7 +2,12 @@
 
 **Project Objective**
 
-The goal of this project was to **analyze company revenue and profitability across project types, locations, and time** in order to identify **key financial trends and performance drivers.**
+The goal of this project was to **analyze company X revenue and profitability across project types, locations, and time** in order to identify **key financial trends and performance drivers.**
+
+**Dashboard**
+<img width="1172" height="665" alt="image" src="https://github.com/user-attachments/assets/7ca03165-31fe-4e62-ba1a-9d15d2673684" />
+<img width="1178" height="673" alt="image" src="https://github.com/user-attachments/assets/1f399d0f-27d2-4d98-8863-a4748ffe8bca" />
+
 
 **Key insights**
 
@@ -10,7 +15,7 @@ The goal of this project was to **analyze company revenue and profitability acro
 
 • **Warsaw and Wroclaw** were the top-performing cities, together accounting for more than half of total revenue.
 
-• Revenue remained relatively stable between 2013 and 2019, followed by a noticeable decline after 2020, indicating a potential shift in market conditions.
+• Revenue remained relatively stable between 2013 and 2019, **followed by a noticeable decline after 2020, indicating a potential shift in market conditions.**
 
 • The company achieved **total profit of €479K** with an overall profit margin of **11.88%.**
 
@@ -31,9 +36,7 @@ The goal of this project was to **analyze company revenue and profitability acro
 • Implemented dynamic filtering by project type, industry, and location
 
 
-**Dashboard**
-<img width="1172" height="665" alt="image" src="https://github.com/user-attachments/assets/7ca03165-31fe-4e62-ba1a-9d15d2673684" />
-<img width="1178" height="673" alt="image" src="https://github.com/user-attachments/assets/1f399d0f-27d2-4d98-8863-a4748ffe8bca" />
+
 
 
 
